@@ -3,8 +3,8 @@ Snippets of code and scripts to make life easier.
 
 ## Bash-Blast
 Current files:
-    1. .bashrc 
-    2. frequecy_counter.sh 
+1. .bashrc 
+2. frequecy_counter.sh 
 
 ### .bashrc
 A (currently) small bash rc fle with a quality of life alias.
