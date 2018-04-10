@@ -1,15 +1,15 @@
 # Scripts-Snips
 Snippets of code and scripts to make life easier.
 
-##Bash-Blast
+## Bash-Blast
 Current files:
     1. .bashrc 
     2. frequecy_counter.sh 
 
-###.bashrc
+### .bashrc
 A (currently) small bash rc fle with a quality of life alias.
 
-###frequecy_counter.sh
+### frequecy_counter.sh
 USAGE: ./frequency_counter.sh [FILENAME] [*options*]
 
 This script will separate the provided file into individual words. Word
